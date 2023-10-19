@@ -1,0 +1,9 @@
+{
+  "name": "topdir",
+  "version": "0.0.0",
+  "workspaces": {
+    "packages": [
+      "packages/**"
+    ]
+  }
+}
